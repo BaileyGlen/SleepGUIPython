@@ -8,4 +8,4 @@ Utilizing win10 64 with Anaconda 3.5
   - familiarity with numpy
   - filtering etc
   - implementation of autoscoring
-- File readin (compatable with matlab)
+- File readin (compatible with matlab)
